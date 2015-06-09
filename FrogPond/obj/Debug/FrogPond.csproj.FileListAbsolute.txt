@@ -1,0 +1,7 @@
+F:\Projects\FrogPond\FrogPond\bin\FrogPond.dll
+F:\Projects\FrogPond\FrogPond\bin\FrogPond.pdb
+F:\Projects\FrogPond\FrogPond\obj\Debug\FrogPond.dll
+F:\Projects\FrogPond\FrogPond\obj\Debug\FrogPond.pdb
+F:\Projects\FrogPond\FrogPond\obj\Debug\FrogPond.csprojResolveAssemblyReference.cache
+F:\Projects\FrogPond\FrogPond\bin\Newtonsoft.Json.dll
+F:\Projects\FrogPond\FrogPond\bin\Newtonsoft.Json.xml
